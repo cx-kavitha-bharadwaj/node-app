@@ -13,15 +13,6 @@
     "@angular/cdk": "^13.3.2",
     "@angular/common": "^13.3.2",
     "@angular/compiler": "^13.3.2",
-    "@angular/core": "^13.3.2",
-    "@angular/forms": "^13.3.2",
-    "@angular/material": "^13.3.2",
-    "@bpce/a11y": "^13.3.0",
-    "@bpce/css-grid": "^13.1.1",
-    "@bpce/material": "^13.3.0",
-    "@bpce/ng-authentication": "^3.5.1",
-    "@bpce/ng-detector": "^13.3.0",
-    "@bpce/ng-forms": "^13.3.0",
     "@bpce/ng-gsu-client": "^2.0.3",
     "@bpce/ts-gsu-client": "^2.0.3",
     "@bpce/ui": "^13.1.1",
@@ -31,10 +22,7 @@
     "@ibp/wapi-commentaires": "^1.2.0",
     "@ibp/wapi-controles-metier": "^1.1.3",
     "@ibp/wapi-core": "^1.3.5",
-    "@ibp/wapi-legacy-agents": "^1.2.1",
-    "@ibp/wapi-legacy-codes": "^1.1.4",
-    "@ibp/wapi-legacy-demands": "^1.3.13",
-    "@ibp/wapi-legacy-groupes-applicatifs": "^1.0.0"
+    "@ibp/wapi-legacy-agents": "^1.2.1"
   }
   
 }
