@@ -10,19 +10,8 @@
   "dependencies": {
     "express": "^4.16.1",
     "@angular/animations": "^13.3.2",
-    "@angular/cdk": "^13.3.2",
     "@angular/common": "^13.3.2",
-    "@angular/compiler": "^13.3.2",
-    "@bpce/ng-gsu-client": "^2.0.3",
-    "@bpce/ts-gsu-client": "^2.0.3",
-    "@bpce/ui": "^13.1.1",
-    "@bpce/utils": "^13.3.0",
-    "@bpce/web-assets": "^4.6.0",
-    "@ibp/ng-wapi": "^13.0.0",
-    "@ibp/wapi-commentaires": "^1.2.0",
-    "@ibp/wapi-controles-metier": "^1.1.3",
-    "@ibp/wapi-core": "^1.3.5",
-    "@ibp/wapi-legacy-agents": "^1.2.1"
+    "@angular/compiler": "^13.3.2"
   }
   
 }
