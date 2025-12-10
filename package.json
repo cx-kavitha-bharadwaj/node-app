@@ -12,6 +12,8 @@
     "@angular/animations": "^13.3.2",
     "@angular/common": "19.2.16",
     "@angular/compiler": "^13.3.2",
-    "@babel/cli": "7.23.9"
+    "@babel/cli": "7.23.9",
+    "@babel/core": "7.23.9",
+    "@babel/node": "7.23.9"
   }
 }
