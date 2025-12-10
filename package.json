@@ -8,8 +8,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.190",
-    "@angular/animations": "^13.3.30",
+    "express": "4.16.190",
+    "@angular/animations": "13.3.30",
     "@angular/common": "^13.3.2",
     "@angular/compiler": "^13.3.2",
     "@babel/cli": "7.23.9" 
