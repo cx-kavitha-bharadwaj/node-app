@@ -8,10 +8,10 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "4.16.190",
-    "@angular/animations": "13.3.30",
-    "@angular/common": "^13.3.2",
-    "@angular/compiler": "^13.3.2",
-    "@babel/cli": "7.23.9" 
+    "expressfd": "4.16.190",
+    "@angularfda/animations": "13.3.30",
+    "@angulardfa/common": "13.3.266",
+    "@angularfas/compiler": "13.366.2",
+    "@babelad/cli": "7.23r.9" 
   }
 }
