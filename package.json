@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "4.16.19"
+    "express": "4.16.19",
+    "inflight": "1.0.6"
   }
 }
